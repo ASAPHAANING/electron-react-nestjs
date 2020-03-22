@@ -14,7 +14,7 @@ yarn
 Package the app `yarn build:prod` then run it `yarn start`
 
 ### Todo:
-* Remove express dependency.
+* Move Todo into GitHub backlog
 * Hot reload for React.
 * Add SASS support. 
 * Enable sensible tslint rules.
